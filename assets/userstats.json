@@ -1,0 +1,17 @@
+{
+	"players": [
+		{
+			"steamid": "76561198083432281",
+			"communityvisibilitystate": 1,
+			"profilestate": 1,
+			"personaname": "Kames",
+			"lastlogoff": 1450158696,
+			"commentpermission": 2,
+			"profileurl": "http://steamcommunity.com/profiles/76561198083432281/",
+			"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2a/2a4f183c89f22078a7ddf14356da27e3890c0986.jpg",
+			"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2a/2a4f183c89f22078a7ddf14356da27e3890c0986_medium.jpg",
+			"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2a/2a4f183c89f22078a7ddf14356da27e3890c0986_full.jpg",
+			"personastate": 0
+		}
+	]		
+}

@@ -1,0 +1,81 @@
+{
+		"newsitems": [
+			{
+				"gid": "377538916258649883",
+				"title": "Dota 2 V6.86 Brings New Hero, Big Balance Changes",
+				"url": "http://store.steampowered.com/news/externalpost/rps/377538916258649883",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "I do enjoy the <a href=\"http://www.rockpapershotgun.com/tag/dota-2/\">Dota 2</a> patches which change so much that I have no idea how the game even plays anymore. Version 6.86 is arriving this week with <a href=\"http://blog.dota2.com/2015/12/the-balance-of-power-update/\">The Balance of Power Update</a> and&#8230; I&#8217;ll be awful for ages figuring out what&#8217;s even happening. It ports another hero over from the original D...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1450264309,
+				"feedname": "rps"
+			},
+			{
+				"gid": "377538916257120634",
+				"title": "The Balance of Power Update",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/377538916257120634",
+				"is_external_url": true,
+				"author": "SZ",
+				"contents": "http://cdn.dota2.com/apps/dota2/images/blogfiles/thebalanceofpower.jpg An update just in time for the holidays, featuring the new hero Arc Warden, an Arcana for Zeus, the Desert Terrain pack, several UI improvements and the 6.86 gameplay update. Get to know Zeus better in a new comic about his unexp...",
+				"feedlabel": "Community Announcements",
+				"date": 1450229900,
+				"feedname": "steam_community_announcements"
+			},
+			{
+				"gid": "377538916256982716",
+				"title": "Dota 2 'Balance of Power' update brings new hero, items and more",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/377538916256982716",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Valve has finally detailed update 6.86 for <a href=\"http://www.pcgamer.com/dota-2/\">Dota 2</a>, following reported leaks earlier this week. Dubbed 'The Balance of Power' update, it ushers in the Arc Warden, a hero you might remember from the original Dota. He's finally made the jump to Dota 2, and as the image above demonstrates, he wields ene...",
+				"feedlabel": "PC Gamer",
+				"date": 1450226471,
+				"feedname": "pcgamer"
+			},
+			{
+				"gid": "377538367948158833",
+				"title": "Dota 2, The Summit 4: Winners And Must-See Matches",
+				"url": "http://store.steampowered.com/news/externalpost/rps/377538367948158833",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (RPS)",
+				"contents": "<em><strong>Article by James Archer</strong></em> <em>Professional <a href=\"http://www.rockpapershotgun.com/tag/dota-2/\">Dota 2</a> players descended on Los Angeles this past weekend to take part in The Summit 4 the latest instalment of professional Dota 2 s most casual competition. Ahead lie spoilers for the event along with our picks of the best matches the tournament had to offer. L...</em>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1450125833,
+				"feedname": "rps"
+			},
+			{
+				"gid": "377538367947479750",
+				"title": "ESL One Frankfurt is back and bigger than ever",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/377538367947479750",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/dota-2/\" target=\"_blank\">Dota 2</a> fans, mark your calendars, because ESL is continuing its drive to take ESL One beyond an esports tournament into a full-blown festival. From June 18-19, ESL One Frankfurt will be returning to the Commerzbank-Arena, with the organisers aiming to top this year's record of 30,000 visitors throug...",
+				"feedlabel": "PC Gamer",
+				"date": 1450112408,
+				"feedname": "pcgamer"
+			},
+			{
+				"gid": "377538367947340082",
+				"title": "The Summit 4 reaches dramatic climax",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/377538367947340082",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Eight <a href=\"http://www.pcgamer.com/dota-2/\" target=\"_blank\">Dota 2</a> teams have battled it out <a href=\"http://www.pcgamer.com/the-best-pro-gaming-to-watch-this-weekend-11/\" target=\"_blank\">since Wednesday</a> till just one remained standing: last night, Evil Geniuses won The Summit championship for the second time, besting surprise finalist Virtus.Pro to take home $49,000. VP was far from the favourite, but nonetheless ploughed through the lower brac...",
+				"feedlabel": "PC Gamer",
+				"date": 1450109129,
+				"feedname": "pcgamer"
+			},
+			{
+				"gid": "377538367936806571",
+				"title": "The best pro gaming to watch this weekend",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/377538367936806571",
+				"is_external_url": true,
+				"author": "",
+				"contents": "It s almost the middle of December you might think. Surely there s no more digital sport to be had in 2015. It s too late! The players are too sleepy, cold, and vastly wealthy. You d be wrong! You d also be a rhetorical device! Dota 2, CS:GO, Hearthstone and League of Legends are all in full swing t...",
+				"feedlabel": "PC Gamer",
+				"date": 1449856800,
+				"feedname": "pcgamer"
+			}
+		]
+}

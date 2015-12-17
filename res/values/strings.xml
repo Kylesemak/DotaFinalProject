@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Final Project</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="heroes_button">Heroes</string>
+    <string name="items_button">Items</string>
+    <string name="signin_button">User Statistics</string>
+    
+    <string name="headerImage">Header</string>
+    <string name="heroesThumbnail">Heroes Thumbnail</string>
+    <string name="itemsThumbnail">Items Thumbnail</string>
+    <string name="signinThumbnail">SignIn Thumbnail</string>
+    
+    <string name="createdByTextview">Created by: Kyle Semak</string>
+    
+    
+	<string name="itemName"></string>
+	<string name="heroName"></string>
+	<string name="imageIcon"></string>
+	<string name="heroesAttribute"></string>
+	<string name="checkedTextView"></string>
+	<string name="heroAbilityDescription"></string>
+	<string name="itemDescription"></string>
+	<string name="checkedItemTextView"></string>
+	<string name="heroLinkButton"></string>
+	<string name="steam_id_view"></string>
+	<string name="steamProfileName"></string>
+	<string name="steamProfileURL"></string>
+	<string name="gameOnePlayed"></string>
+	<string name="gameTwoPlayed"></string>
+	<string name="recentUpdates">-----Recent Updates-----</string>
+	<string name="updateOne"></string>
+	<string name="updateTwo"></string>
+	<string name="updateThree"></string>
+	<string name="updateFour"></string>
+	<string name="updateFive"></string>
+	<string name="updateSix"></string>
+	<string name="updateSeven"></string>
+
+</resources>

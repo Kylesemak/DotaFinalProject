@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>        
+<CheckedTextView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/checkedItemTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:layout_marginLeft="8dp"
+    android:gravity="center"
+    android:paddingLeft="32dp"
+    android:paddingRight="32dp"
+    android:paddingTop="8dp"
+    android:textAlignment="center"
+    android:text="@string/checkedItemTextView"
+    android:textSize="14sp"
+    android:textStyle="bold" > 
+    
+  	   
+</CheckedTextView>
